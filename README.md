@@ -1,4 +1,4 @@
 # future_unknown
 This is a repo for the future unknown
 
-## This was edited in Cloud Shell
+![CI](https://github.com/stevendae/future_unknown/workflows/CI/badge.svg)
